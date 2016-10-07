@@ -1,7 +1,8 @@
 # Proxy-Anonymity-Checker
 Check your proxies anonymity and divide them into high and low anonimus. 
 
-Proxy anonimity is determined by getting HTTP headers through this proxy. If headers is a one of following:
+Proxy anonimity is determined by getting HTTP headers through this proxy. 
+If headers is a one of following:
 
   - X-Forwarded-For
   - X-Real-IP
